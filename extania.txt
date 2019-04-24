@@ -1,0 +1,11 @@
+1 criar repo local 
+2 criar 3 arquivos aula1,2,3txt,
+3 aula1 n deve ser rastreavel, 2 deve ser, aula 3 deve comitar
+4 criar repo github
+5 enviar dados do repo local para o github
+6 alterar arquivo aula2
+7 alterar arquivo aula3   ****(não sobrescreva txt, so adicione)
+8 faer commit de todos arquivos
+9 desfazer commit aula2
+10 
+  
