@@ -1,2 +1,2 @@
-ex aula2.txt
-
+ex 2 tania
+24-4
